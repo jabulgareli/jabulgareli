@@ -1,5 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm João Bulgareli</h1>
 <h3 align="center">Passionate Backend Developer from Brazil</h3>
+<p align="center"><img src="https://wakatime.com/badge/user/953a6bcd-5627-41d7-b03d-6e07c7380424.svg" alt="jabulgareli" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jabulgareli&show_icons=true&locale=en" alt="jabulgareli" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jabulgareli&label=Profile%20views&color=0e75b6&style=flat" alt="jabulgareli" /></p>
 <p align="center"><a href="https://twitter.com/joaobulgareli" target="_blank"><img src="https://img.shields.io/twitter/follow/joaobulgareli?logo=twitter&style=for-the-badge" alt="joaobulgareli" /></a></p>
